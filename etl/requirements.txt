@@ -4,4 +4,4 @@ psycopg2==2.6
 Mako==1.0.1
 MarkupSafe==0.23
 SQLAlchemy==0.9.9
-urllib3==1.10.2
+urllib3==1.24.2
