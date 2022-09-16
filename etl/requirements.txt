@@ -1,7 +1,7 @@
 alembic==0.7.5.post2
 beautifulsoup4==4.3.2
 psycopg2==2.6
-Mako==1.0.1
+Mako==1.2.2
 MarkupSafe==0.23
 SQLAlchemy==0.9.9
 urllib3==1.10.2
